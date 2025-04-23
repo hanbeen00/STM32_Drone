@@ -809,3 +809,25 @@ Caused by: java.nio.channels.UnresolvedAddressException
 
 !ENTRY org.eclipse.cdt.core 1 0 2025-04-23 16:48:34.138
 !MESSAGE Indexed '1-2. Debug Buzzer' (0 sources, 0 headers) in 0.001 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+!SESSION 2025-04-23 17:24:07.451 -----------------------------------------------
+eclipse.buildId=Version 1.18.1
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  C:\Users\hanbi\OneDrive\바탕 화면\STM32\STM32_Drone\1. Debug\1-3. Debug UART\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\hanbi\OneDrive\바탕 화면\STM32\STM32_Drone\1. Debug\1-3. Debug UART\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-04-23 17:24:19.932
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-04-23 17:24:19.934
+!MESSAGE Log4j2 initialized with config file C:\Users\hanbi\OneDrive\바탕 화면\STM32\STM32_Drone\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-04-23 17:24:31.567
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-04-23 17:24:37.163
+!MESSAGE Indexed '1-1. Debug LED' (29 sources, 120 headers) in 4.51 sec: 11,521 declarations; 41,952 references; 5 unresolved inclusions; 1,187 syntax errors; 2,332 unresolved names (4.2%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-04-23 17:25:08.489
+!MESSAGE Indexed '1-3. Debug UART' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
