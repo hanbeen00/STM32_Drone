@@ -995,3 +995,36 @@ Caused by: java.nio.channels.UnresolvedAddressException
 
 !ENTRY com.st.stm32cube.ide.mcu.debug.launch 2 0 2025-04-23 18:41:30.571
 !MESSAGE Won't launch debug session since we failed to locate the binary.
+!SESSION 2025-04-23 18:47:43.502 -----------------------------------------------
+eclipse.buildId=Version 1.18.1
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-04-23 18:48:02.048
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-04-23 18:48:02.048
+!MESSAGE Log4j2 initialized with config file C:\Users\hanbi\OneDrive\바탕 화면\STM32\STM32_Drone\2. Sensor\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-04-23 18:48:10.532
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2025-04-23 19:22:54.399 -----------------------------------------------
+eclipse.buildId=Version 1.18.1
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-04-23 19:23:03.542
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-04-23 19:23:03.543
+!MESSAGE Log4j2 initialized with config file C:\Users\hanbi\OneDrive\바탕 화면\STM32\STM32_Drone\2. Sensor\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-04-23 19:23:12.026
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-04-23 19:23:39.583
+!MESSAGE Indexed '2-2. ICM20602' (34 sources, 127 headers) in 2.67 sec: 12,726 declarations; 48,918 references; 1 unresolved inclusions; 92 syntax errors; 240 unresolved names (0.39%)
